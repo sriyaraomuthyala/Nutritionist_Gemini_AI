@@ -3,6 +3,12 @@
 ## Overview
 The **Gemini Nutrition Tracking App** is a web application built using Streamlit and Google's Gemini API. The app allows users to upload or select an image of food and receive detailed nutritional information, including a calorie breakdown for each food item detected.
 
+![image](https://github.com/user-attachments/assets/c24b50c0-9f2f-4ca5-a4a4-99bffbb41a83)
+![image](https://github.com/user-attachments/assets/a6d4d217-ed23-4b25-99ed-57243b678a7f)
+![image](https://github.com/user-attachments/assets/8dd1a10e-8ae4-4cbe-9410-827a3f35c0bd)
+![image](https://github.com/user-attachments/assets/ea981e99-b62c-4db5-847e-a22f9a27aece)
+
+
 ## Features
 - Upload an image of food or select one from the sidebar.
 - Uses **Google Gemini API** to analyze the image and extract nutritional details.
