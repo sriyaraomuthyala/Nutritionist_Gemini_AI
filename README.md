@@ -82,5 +82,5 @@ This project is licensed under the MIT License.
 - [Google Gemini API](https://ai.google.dev/) for AI-powered image analysis.
 
 ---
-Developed by **[Your Name]**
+Developed by **Sriya Rao Muthyala**
 
